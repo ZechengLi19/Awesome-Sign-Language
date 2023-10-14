@@ -7,7 +7,7 @@ If this repository brings you some inspiration, I would be very honored😊
 
 If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com📮
 
-## Datasets
+## Popular Datasets
 - Isolated sign language recognition datasets:
   - **WLASL**: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [[Link](https://dxli94.github.io/WLASL/)]
   - **MSASL**: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/ms-asl/)]
@@ -28,8 +28,47 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ## Paper List
 ### Isolated sign language recognition
+### <a id="islr_2020">2020</a>
+  - **Transferring Cross-Domain Knowledge for Video Sign Language Recognition**. *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.html)]
 
 ### Continue sign language recognition
+### <a id="cslr_2016">2016</a>
+  - **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition**. *BMVC 2016*. [[Paper](https://bmva-archive.org.uk/bmvc/2016/papers/paper136/index.html)]
+
+### <a id="cslr_2017">2017</a>
+  - **SubUNets: End-To-End Hand Shape and Continuous Sign Language Recognition**. *ICCV 2017*. [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.html)]
+  - **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization**. *CVPR 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.html)]
+
+### <a id="cslr_2018">2018</a>
+  - **Deep Sign: Enabling Robust Statistical Continuous Sign Language Recognition via Hybrid CNN-HMMs**. *IJCV 2018*. [[Paper](https://link.springer.com/article/10.1007/s11263-018-1121-3)]
+
+### <a id="cslr_2019">2019</a>
+  - **Iterative Alignment Network for Continuous Sign Language Recognition**. *CVPR 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.html)]
+
+### <a id="cslr_2020">2020</a>
+  - **Boosting Continuous Sign Language Recognition via Cross Modality Augmentation**. *ACM MM 2020*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931)]
+  - **Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition**. *ECCV 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2527_ECCV_2020_paper.php)]
+  - **Fully Convolutional Networks for Continuous Sign Language Recognition**. *ECCV 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4763_ECCV_2020_paper.php)]
+  - **Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition**. *AAAI 2020*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/7001)]
+
+### <a id="cslr_2021">2021</a>
+  - **Visual Alignment Constraint for Continuous Sign Language Recognition**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)][[Code](https://github.com/ycmin95/VAC_CSLR)] 
+  - **Self-Mutual Distillation Learning for Continuous Sign Language Recognition**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)]
+
+### <a id="cslr_2022">2022</a>
+  - **Signing Outside the Studio: Benchmarking Background Robustness for Continuous Sign Language Recognition**. *BMVC 2022*. [[Paper](https://bmvc2022.mpi-inf.mpg.de/322/)][[Code](https://github.com/art-jang/Signing-Outside-the-Studio)]
+  - **Temporal Lift Pooling for Continuous Sign Language Recognition**. *ECCV 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/160_ECCV_2022_paper.php)][[Code](https://github.com/hulianyuyy/Temporal-Lift-Pooling)]
+  - **C2SLR: Consistency-Enhanced Continuous Sign Language Recognition**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)]
+
+### <a id="cslr_2023">2023</a>
+  - **CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
+  - **Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
+  - **C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
+  - **CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)][[Code](https://github.com/binbinjiang/CVT-SLR)]
+  - **Continuous Sign Language Recognition with Correlation Network**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)][[Code](https://github.com/hulianyuyy/CorrNet)]
+  - **Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
+
+Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb011fd258c763c44d8c6a0e9ce04f17-Abstract-Datasets_and_Benchmarks.html)     
 
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
