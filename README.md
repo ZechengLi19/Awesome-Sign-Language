@@ -68,8 +68,6 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Continuous Sign Language Recognition with Correlation Network**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)][[Code](https://github.com/hulianyuyy/CorrNet)]
   - **Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
 
-Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb011fd258c763c44d8c6a0e9ce04f17-Abstract-Datasets_and_Benchmarks.html)     
-
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
   - **Neural Sign Language Translation**. *CVPR 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)][[Code](https://github.com/neccam/nslt)]
