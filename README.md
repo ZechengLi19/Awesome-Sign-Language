@@ -71,7 +71,6 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
   - **Neural Sign Language Translation**. *CVPR 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Camgoz_Neural_Sign_Language_CVPR_2018_paper.html)][[Code](https://github.com/neccam/nslt)]
-  - **Sign Language Production using Neural Machine Translation and Generative Adversarial Networks**. *BMVC 2018*. [[Paper](http://bmvc2018.org/contents/papers/0906.pdf)]
 
 ### <a id="slt_2020">2020</a>
   - **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation**. *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.html)][[Code](https://github.com/neccam/slt)]
@@ -82,7 +81,6 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation**. *TMM 2021*. [[Paper](https://ieeexplore.ieee.org/document/9354538)]
   - **How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.html)][[Project](https://how2sign.github.io/)]
   - **Improving Sign Language Translation with Monolingual Data by Sign Back-Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)]
-  - **Model-Aware Gesture-to-Gesture Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html)]
   - **Skeleton-Aware Neural Sign Language Translation**. *ACM MM 2021*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577)]
   - **SimulSLT: End-to-End Simultaneous Sign Language Translation**. *ACM MM 2021*. [[Paper](https://arxiv.org/abs/2112.04228)][[Code](https://github.com/Robert0125/SimulSLT)]
 
