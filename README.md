@@ -28,8 +28,26 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ## Paper List
 ### Isolated sign language recognition
+### <a id="islr_2016">2016</a>
+  - **Iterative Reference Driven Metric Learning for Signer Independent Isolated Sign**. *ECCV 2016*. [[Paper](http://vipl.ict.ac.cn/uploadfile/upload/2018112115134267.pdf)]
+
+### <a id="islr_2019">2019</a>
+  - **Skeleton-Based Gesture Recognition Using Several Fully Connected Layers with Path Signature Features and Temporal Transformer Module**. *AAAI 2019*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4878)]
+
 ### <a id="islr_2020">2020</a>
   - **Transferring Cross-Domain Knowledge for Video Sign Language Recognition**. *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.html)]
+  - **BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues**. *ECCV 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1279_ECCV_2020_paper.php)]
+  - **Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison**. *WACV 2020*. [[Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.html)][[Code](https://github.com/dxli94/WLASL)] 
+  - **FineHand: Learning Hand Shapes for American Sign Language Recognition**. *FG 2020*. [[Paper](https://ieeexplore.ieee.org/document/9320289)]
+
+### <a id="islr_2021">2021</a>
+  - **Hand-Model-Aware Sign Language Recognition**. *AAAI 2021*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16247)]
+  - **Global-Local Enhancement Network for NMF-Aware Sign Language Recognition**. *TMM 2021*. [[Paper](https://dl.acm.org/doi/10.1145/3436754)]
+  - **Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition**. *WACV 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021/html/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.html)]
+  - **Pose-based Sign Language Recognition using GCN and BERT**. *WACVW 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021W/HBU/html/Tunga_Pose-Based_Sign_Language_Recognition_Using_GCN_and_BERT_WACVW_2021_paper.html)]
+
+### <a id="islr_2023">2023</a>
+  - **Natural Language-Assisted Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
 
 ### Continue sign language recognition
 ### <a id="cslr_2016">2016</a>
