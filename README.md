@@ -114,6 +114,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="slt_2022">2022</a>
   - **Prior Knowledge and Memory Enriched Transformer for Sign Language Translation**. *ACL 2022*. [[Paper](https://aclanthology.org/2022.findings-acl.297/)][[Code](https://github.com/hugddygff/PET)]
   - **Open-Domain Sign Language Translation Learned from Online Video**. *EMNLP 2022*. [[Paper](https://aclanthology.org/2022.emnlp-main.427/)][[Code](https://github.com/chevalierNoir/OpenASL)]
+  - **Automatic Gloss-level Data Augmentation for Sign Language Translation**. *LREC 2022*. [[Paper](https://aclanthology.org/2022.lrec-1.734.pdf)]
   - **A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)]
   - **MLSLT: Towards Multilingual Sign Language Translation**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)][[Code](https://github.com/MLSLT/SP-10)]
   - **Two-Stream Network for Sign Language Recognition and Translation**. *NeurIPS 2022*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6cd3ac24cdb789beeaa9f7145670fcae-Abstract-Conference.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)]
@@ -129,6 +130,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Sign Language Translation with Iterative Prototype**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)]
   - **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. *ICCV 2023*. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)][[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
   - **SLTUNET: A Simple Unified Model for Sign Language Translation**. *ICLR 2023*. [[paper](https://openreview.net/forum?id=EBS4C77p_5S)][[Code](https://github.com/bzhangGo/sltunet)]
+  - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)]
 
 ### <a id="slt_2024">2024</a>
   - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
