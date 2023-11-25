@@ -133,7 +133,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)]
 
 ### <a id="slt_2024">2024</a>
-  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
+  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *UnderReview ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
 
 
 ### Sign Generation
