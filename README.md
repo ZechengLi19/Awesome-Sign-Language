@@ -54,10 +54,14 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Global-Local Enhancement Network for NMF-Aware Sign Language Recognition**. *TMM 2021*. [[Paper](https://dl.acm.org/doi/10.1145/3436754)]
   - **Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition**. *WACV 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021/html/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.html)]
   - **Pose-based Sign Language Recognition using GCN and BERT**. *WACVW 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021W/HBU/html/Tunga_Pose-Based_Sign_Language_Recognition_Using_GCN_and_BERT_WACVW_2021_paper.html)]
+  - **Skeleton Aware Multi-modal Sign Language Recognition**. *CVPRW 2021*. [[Paper](https://arxiv.org/pdf/2103.08833.pdf)][[Code](https://github.com/jackyjsy/CVPR21Chal-SLR)]
+  - **Sign Language Recognition via Skeleton-Aware Multi-Model Ensemble**. *Arxiv 2021*. [[Paper](https://arxiv.org/pdf/2110.06161.pdf)][[Code](https://github.com/jackyjsy/SAM-SLR-v2)]
 
 ### <a id="islr_2023">2023</a>
+  - **Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. *CVPRW 2023*. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)][[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
   - **Natural Language-Assisted Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
 
+  
 ### Continue sign language recognition
 ### <a id="cslr_2016">2016</a>
   - **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition**. *BMVC 2016*. [[Paper](https://bmva-archive.org.uk/bmvc/2016/papers/paper136/index.html)]
