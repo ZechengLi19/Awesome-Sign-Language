@@ -13,6 +13,7 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
 - [Continue sign language recognition](#cslr_2016)
 - [Sign language translation](#slt_2018)
 - [Sign Generation](#sg_2018)
+- [Sign Language Retrieval](#slr_2022)
 - [Pre-training](#pt_2020)
 
 ## Popular Datasets
@@ -149,6 +150,14 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="sg_2021">2021</a>
   - **Model-Aware Gesture-to-Gesture Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)]
+
+### Sign Language Retrieval
+### <a id="slr_2022">2022</a>
+  - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
+
+### <a id="slr_2023">2023</a>
+  - **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**. *CVPR 2023*. [[paper](https://arxiv.org/pdf/2303.12793.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
+
 
 ### Pre-training
 ### <a id="pt_2020">2020</a>
