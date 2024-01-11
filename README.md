@@ -160,10 +160,10 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 
 ### Pre-training
-### <a id="pt_2020">2020</a>
+### <a id="pt_2021">2021</a>
   - **SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)]
 
-### <a id="pt_2021">2021</a>
+### <a id="pt_2023">2023</a>
   - **BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**. *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25470)]
   - **SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding**. *TPAMI 2023*. [[Paper](https://ieeexplore.ieee.org/document/10109128)][[Project](https://signbert-zoo.github.io/)]
 
