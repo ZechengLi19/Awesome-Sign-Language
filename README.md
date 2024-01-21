@@ -23,6 +23,7 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
   - **MSASL**: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/ms-asl/)]
   - **NMFs-CSL**: 25,608 and 6,402 video segments in the train and test splits, respectively. [[Link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)]
   - **SLR500**: 90,000 and 35,000 video segments in the train and test splits, respectively. [[Link](http://home.ustc.edu.cn/~hagjie/)]
+  - **Slovo**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link](https://github.com/hukenovs/slovo)]
 
 - Continue sign language recognition datasets:
   - **Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
@@ -93,6 +94,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **C2SLR: Consistency-Enhanced Continuous Sign Language Recognition**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)]
 
 ### <a id="cslr_2023">2023</a>
+  - **AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition**. *ACM MM 2023*. [[Paper](https://dl.acm.org/doi/10.1145/3581783.3611745)][[Code](https://github.com/hulianyuyy/AdaBrowse)]
   - **CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
   - **Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
   - **C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
@@ -138,7 +140,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)]
 
 ### <a id="slt_2024">2024</a>
-  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *UnderReview ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
+  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
 
 
 ### Sign Generation
