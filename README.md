@@ -62,7 +62,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="islr_2023">2023</a>
   - **Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. *CVPRW 2023*. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)][[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
   - **Natural Language-Assisted Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
-
+  - **Human Part-wise 3D Motion Context Learning for Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
   
 ### Continue sign language recognition
 ### <a id="cslr_2016">2016</a>
@@ -101,6 +101,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)][[Code](https://github.com/binbinjiang/CVT-SLR)]
   - **Continuous Sign Language Recognition with Correlation Network**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)][[Code](https://github.com/hulianyuyy/CorrNet)]
   - **Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
+  - **Self-Emphasizing Network for Continuous Sign Language Recognition**. *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)][[Code](https://github.com/hulianyuyy/SEN_CSLR)]
 
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
@@ -137,11 +138,11 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Sign Language Translation with Iterative Prototype**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)]
   - **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. *ICCV 2023*. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)][[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
   - **SLTUNET: A Simple Unified Model for Sign Language Translation**. *ICLR 2023*. [[paper](https://openreview.net/forum?id=EBS4C77p_5S)][[Code](https://github.com/bzhangGo/sltunet)]
-  - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)]
+  - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)][[Code](https://github.com/Atrewin/SignXmDA)]
 
 ### <a id="slt_2024">2024</a>
   - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
-
+  - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
 
 ### Sign Generation
 ### <a id="sg_2018">2018</a>
@@ -153,13 +154,15 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="sg_2021">2021</a>
   - **Model-Aware Gesture-to-Gesture Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)]
 
+### <a id="sg_2024">2024</a>
+  - **Sign Language Production with Latent Motion Transformer**. *WACV 2024*. [[Paper](https://arxiv.org/pdf/2312.12917.pdf)]
+
 ### Sign Language Retrieval
 ### <a id="slr_2022">2022</a>
   - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
 
 ### <a id="slr_2023">2023</a>
   - **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**. *CVPR 2023*. [[paper](https://arxiv.org/pdf/2303.12793.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
-
 
 ### Pre-training
 ### <a id="pt_2021">2021</a>
