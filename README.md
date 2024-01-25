@@ -14,7 +14,7 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
 - [Sign language translation](#slt_2018)
 - [Sign Generation](#sg_2018)
 - [Sign Language Retrieval](#slr_2022)
-- [Pre-training](#pt_2020)
+- [Pre-training](#pt_2021)
 
 ## Popular Datasets
 <a id="Datasets"></a>
