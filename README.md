@@ -77,6 +77,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="cslr_2019">2019</a>
   - **Iterative Alignment Network for Continuous Sign Language Recognition**. *CVPR 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.html)]
+  - **Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos**. *TPAMI 2019*. [[Paper](https://ieeexplore.ieee.org/document/8691602/)]
 
 ### <a id="cslr_2020">2020</a>
   - **Boosting Continuous Sign Language Recognition via Cross Modality Augmentation**. *ACM MM 2020*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413931)]
@@ -91,6 +92,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="cslr_2022">2022</a>
   - **Signing Outside the Studio: Benchmarking Background Robustness for Continuous Sign Language Recognition**. *BMVC 2022*. [[Paper](https://bmvc2022.mpi-inf.mpg.de/322/)][[Code](https://github.com/art-jang/Signing-Outside-the-Studio)]
   - **Temporal Lift Pooling for Continuous Sign Language Recognition**. *ECCV 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/160_ECCV_2022_paper.php)][[Code](https://github.com/hulianyuyy/Temporal-Lift-Pooling)]
+  - **Deep Radial Embedding for Visual Sequence Learning**. *ECCV 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5670_ECCV_2022_paper.php)]
   - **C2SLR: Consistency-Enhanced Continuous Sign Language Recognition**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)]
 
 ### <a id="cslr_2023">2023</a>
@@ -102,6 +104,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Continuous Sign Language Recognition with Correlation Network**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)][[Code](https://github.com/hulianyuyy/CorrNet)]
   - **Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
   - **Self-Emphasizing Network for Continuous Sign Language Recognition**. *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)][[Code](https://github.com/hulianyuyy/SEN_CSLR)]
+  - **Prior-Aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition**. *TMM 2023*. [[Paper](https://ieeexplore.ieee.org/document/10105511)]
 
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
@@ -114,6 +117,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slt_2021">2021</a>
   - **Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation**. *TMM 2021*. [[Paper](https://ieeexplore.ieee.org/document/9354538)]
+  - **Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation**. *TMM 2021*. [[Paper](https://ieeexplore.ieee.org/document/9447976)]
   - **How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.html)][[Project](https://how2sign.github.io/)]
   - **Improving Sign Language Translation with Monolingual Data by Sign Back-Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)]
   - **Skeleton-Aware Neural Sign Language Translation**. *ACM MM 2021*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475577)][[Code](https://github.com/SignLanguageCode/SANet)]
