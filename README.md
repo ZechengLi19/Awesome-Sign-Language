@@ -24,6 +24,7 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
   - **NMFs-CSL**: 25,608 and 6,402 video segments in the train and test splits, respectively. [[Link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)]
   - **SLR500**: 90,000 and 35,000 video segments in the train and test splits, respectively. [[Link](http://home.ustc.edu.cn/~hagjie/)]
   - **Slovo**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link](https://github.com/hukenovs/slovo)]
+  - **BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
 
 - Continue sign language recognition datasets:
   - **Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
@@ -36,6 +37,7 @@ train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth
 and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
   - **OpenASL**: 96,476, 966 and 975 video segments in train, val and test splits, respectively. [[Link](https://github.com/chevalierNoir/OpenASL/)]
   - **How2Sign**: 31,128, 1,741, 2,322 video segments in train, val and test splits, respectively. [[Link](https://how2sign.github.io/)]
+  - **BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
 
 ## Paper List
 ### Isolated sign language recognition
@@ -138,6 +140,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Neural Machine Translation Methods for Translating Text to Sign Language Glosses**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-long.700/)]
   - **Considerations for meaningful sign language machine translation based on glosses**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-short.60/)]
   - **ISLTranslate: Dataset for Translating Indian Sign Language**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.findings-acl.665/)][[Code](https://github.com/Exploration-Lab/ISLTranslate)]
+  - **Sign Language Translation from Instructional Videos**. *CVPRW 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/papers/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.pdf)][[Project](https://imatge-upc.github.io/slt_how2sign_wicv2023/)][[Code](https://github.com/imatge-upc/slt_how2sign_wicv2023)]
   - **Gloss Attention for Gloss-free Sign Language Translation**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)][[Code](https://github.com/YinAoXiong/GASLT)]
   - **Sign Language Translation with Iterative Prototype**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)]
   - **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. *ICCV 2023*. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)][[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
@@ -147,6 +150,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="slt_2024">2024</a>
   - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
   - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
+  - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translatio**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
 
 ### Sign Generation
 ### <a id="sg_2018">2018</a>
