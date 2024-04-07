@@ -12,8 +12,8 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
 - [Isolated sign language recognition](#islr_2016)
 - [Continue sign language recognition](#cslr_2016)
 - [Sign language translation](#slt_2018)
-- [Sign Generation](#sg_2018)
-- [Sign Language Retrieval](#slr_2022)
+- [Sign language production](#slp_2018)
+- [Sign language retrieval](#slr_2022)
 - [Pre-training](#pt_2021)
 
 ## Popular Datasets
@@ -152,20 +152,29 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
   - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translatio**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
 
-### Sign Generation
-### <a id="sg_2018">2018</a>
+### Sign language production
+### <a id="slp_2018">2018</a>
   - **GestureGAN for Hand Gesture-to-Gesture Translation in the Wild**. *ACM MM 2018*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240704)]
 
-### <a id="sg_2020">2020</a>
+### <a id="slp_2020">2020</a>
+  - **Neural Sign Language Synthesis: Words Are Our Glosses**. *WACV 2020*. [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Zelinka_Neural_Sign_Language_Synthesis_Words_Are_Our_Glosses_WACV_2020_paper.pdf)]
+  - **Adversarial Training for Multi-Channel Sign Language Production**. *BMVC 2020*. [[Paper](https://arxiv.org/abs/2008.12405)][[Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP)]
+  - **Progressive Transformers for End-to-End Sign Language Production**. *ECCV 2020*. [[Paper](https://arxiv.org/pdf/2004.14874.pdf)][[Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP)]
   - **Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks**. *IJCV 2020*. [[Paper](https://link.springer.com/article/10.1007/s11263-019-01281-2#citeas)]
 
-### <a id="sg_2021">2021</a>
+### <a id="slp_2021">2021</a>
+  - **Towards Fast and High-Quality Sign Language Production**. *ACM MM 2021*. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475463)]
+  - **Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.pdf)]
   - **Model-Aware Gesture-to-Gesture Translation**. *CVPR 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)]
+  - **Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks**. *IJCV 2021*. [[Paper](https://link.springer.com/article/10.1007/s11263-021-01457-9)][[Code](https://github.com/BenSaunders27/ProgressiveTransformersSLP)]
 
-### <a id="sg_2024">2024</a>
+### <a id="slp_2022">2022</a>
+  - **Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.html)]
+
+### <a id="slp_2024">2024</a>
   - **Sign Language Production with Latent Motion Transformer**. *WACV 2024*. [[Paper](https://arxiv.org/pdf/2312.12917.pdf)]
 
-### Sign Language Retrieval
+### Sign language retrieval
 ### <a id="slr_2022">2022</a>
   - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
 
