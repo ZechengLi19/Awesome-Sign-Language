@@ -24,20 +24,30 @@ If you have any suggestions, feel free to contact me with: lizecheng19@gmail.com
   - **NMFs-CSL**: 25,608 and 6,402 video segments in the train and test splits, respectively. [[Link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)]
   - **SLR500**: 90,000 and 35,000 video segments in the train and test splits, respectively. [[Link](http://home.ustc.edu.cn/~hagjie/)]
   - **Slovo**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link](https://github.com/hukenovs/slovo)]
+  - **GSL**: 34,995 and 3,500 video segments in the train and test splits, respectively. [[Link](https://zenodo.org/records/3941811#.XxrZXZZRU5k)]
   - **BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
+  - **ASL Citizen**: 40,154, 10,304, 32,941 video segments in train, val and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/asl-citizen/)]
+  - **Auslan-Daily**: 1,800, 600, 600 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
+
+[//]: # (  - **KArSL**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link]&#40;https://hamzah-luqman.github.io/KArSL/&#41;])
 
 - Continue sign language recognition datasets:
   - **Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
   - **Phoenix-2014T**: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
+  - **GSL**: 8,189, 1,063 and 1,043 video segments in train, dev and test splits, respectively. [[Link](https://zenodo.org/records/3941811#.XxrZXZZRU5k)]
+  - **TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
 
 - Sign language translation datasets:
   - **Phoenix-2014T**: 7,096, 519 and 642 video segments in
 train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
+  - **TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
   - **CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev
 and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
   - **OpenASL**: 96,476, 966 and 975 video segments in train, val and test splits, respectively. [[Link](https://github.com/chevalierNoir/OpenASL/)]
   - **How2Sign**: 31,128, 1,741, 2,322 video segments in train, val and test splits, respectively. [[Link](https://how2sign.github.io/)]
   - **BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
+  - **Auslan-Daily Communication**: 12,441, 800, 800 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
+  - **Auslan-Daily News**: 9,665, 700, 700 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
 
 ## Paper List
 ### Isolated sign language recognition
@@ -150,7 +160,10 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="slt_2024">2024</a>
   - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
   - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
-  - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translatio**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
+  - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
+  - **LLMs are Good Sign Language Translators**. *CVPR 2024*. [[paper](https://arxiv.org/pdf/2404.00925)]
+
+[//]: # (  - **A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News**. *LREC-COLING 2024*. [[paper]&#40;https://arxiv.org/pdf/2405.00980&#41;][[Project]&#40;https://tvb-hksl-news.github.io/&#41;])
 
 ### Sign language production
 ### <a id="slp_2018">2018</a>
@@ -173,6 +186,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slp_2024">2024</a>
   - **Sign Language Production with Latent Motion Transformer**. *WACV 2024*. [[Paper](https://arxiv.org/pdf/2312.12917.pdf)]
+  - **Select and Reorder: A Novel Approach for Neural Sign Language Production**. *LREC-COLING 2024*. [[Paper](https://arxiv.org/pdf/2404.11532)]
 
 ### Sign language retrieval
 ### <a id="slr_2022">2022</a>
