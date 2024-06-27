@@ -77,7 +77,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. *CVPRW 2023*. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)][[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
   - **Natural Language-Assisted Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
   - **Human Part-wise 3D Motion Context Learning for Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
-  - **Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. *TIP 2024*. [[Paper](https://arxiv.org/pdf/2406.10501)][[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
+  - **Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. *TIP 2023*. [[Paper](https://arxiv.org/pdf/2406.10501)][[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
 
 ### <a id="islr_2024">2024</a>
   - **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. *TCSVT 2024*. [[Paper](https://arxiv.org/pdf/2405.20666)][[Code](https://github.com/sakura2233565548/MASA)]
@@ -194,7 +194,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Sign Language Production with Latent Motion Transformer**. *WACV 2024*. [[Paper](https://arxiv.org/pdf/2312.12917.pdf)]
   - **SignAvatar: Sign Language 3D Motion Reconstruction and Generation**. *FG 2024*. [[Paper](https://arxiv.org/pdf/2405.07974)][[Project](https://dongludeeplearning.github.io/SignAvatar.html)]
   - **Select and Reorder: A Novel Approach for Neural Sign Language Production**. *LREC-COLING 2024*. [[Paper](https://arxiv.org/pdf/2404.11532)][[Project](https://t2sgpt-demo.yinaoxiong.cn/)]
-  - **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2404.11532)][[Project](https://t2sgpt-demo.yinaoxiong.cn/)]
+  - **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2406.07119)][[Project](https://t2sgpt-demo.yinaoxiong.cn/)]
 
 ### Sign language retrieval
 ### <a id="slr_2022">2022</a>
