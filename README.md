@@ -77,10 +77,8 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. *CVPRW 2023*. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)][[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
   - **Natural Language-Assisted Sign Language Recognition**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)][[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
   - **Human Part-wise 3D Motion Context Learning for Sign Language Recognition**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
-  - **Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. *TIP 2023*. [[Paper](https://arxiv.org/pdf/2406.10501)][[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
 
-### <a id="islr_2024">2024</a>
-  - **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. *TCSVT 2024*. [[Paper](https://arxiv.org/pdf/2405.20666)][[Code](https://github.com/sakura2233565548/MASA)]
+[//]: # (### <a id="islr_2024">2024</a>)
 
 ### Continue sign language recognition
 ### <a id="cslr_2016">2016</a>
@@ -210,6 +208,8 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="pt_2023">2023</a>
   - **BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**. *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25470)]
   - **SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding**. *TPAMI 2023*. [[Paper](https://ieeexplore.ieee.org/document/10109128)][[Project](https://signbert-zoo.github.io/)]
+  - **Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. *TIP 2023*. [[Paper](https://arxiv.org/pdf/2406.10501)][[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
 
 ### <a id="pt_2024">2024</a>
+  - **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. *TCSVT 2024*. [[Paper](https://arxiv.org/pdf/2405.20666)][[Code](https://github.com/sakura2233565548/MASA)]
   - **🔥Towards Privacy-Aware Sign Language Translation at Scale**. *Arxiv 2024*. [[Paper](https://arxiv.org/pdf/2402.09611)]
