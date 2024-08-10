@@ -31,14 +31,13 @@ Additionally, if you could consider giving my repository a star🌟, that would 
   - **ASL Citizen**: 40,154, 10,304, 32,941 video segments in train, val and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/asl-citizen/)]
   - **Auslan-Daily**: 1,800, 600, 600 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
 
-[//]: # (  - **KArSL**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link]&#40;https://hamzah-luqman.github.io/KArSL/&#41;])
-
 - Continue sign language recognition datasets:
   - **Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
   - **Phoenix-2014T**: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
+  - **CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
   - **GSL**: 8,189, 1,063 and 1,043 video segments in train, dev and test splits, respectively. [[Link](https://zenodo.org/records/3941811#.XxrZXZZRU5k)]
   - **TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
-
+  
 - Sign language translation datasets:
   - **Phoenix-2014T**: 7,096, 519 and 642 video segments in
 train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
@@ -67,7 +66,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="islr_2021">2021</a>
   - **Hand-Model-Aware Sign Language Recognition**. *AAAI 2021*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16247)]
-  - **Global-Local Enhancement Network for NMF-Aware Sign Language Recognition**. *TMM 2021*. [[Paper](https://dl.acm.org/doi/10.1145/3436754)]
+  - **Global-Local Enhancement Network for NMF-Aware Sign Language Recognition**. *TOMM 2021*. [[Paper](https://dl.acm.org/doi/10.1145/3436754)]
   - **Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition**. *WACV 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021/html/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.html)]
   - **Pose-based Sign Language Recognition using GCN and BERT**. *WACVW 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021W/HBU/html/Tunga_Pose-Based_Sign_Language_Recognition_Using_GCN_and_BERT_WACVW_2021_paper.html)]
   - **Skeleton Aware Multi-modal Sign Language Recognition**. *CVPRW 2021*. [[Paper](https://arxiv.org/pdf/2103.08833.pdf)][[Code](https://github.com/jackyjsy/CVPR21Chal-SLR)]
@@ -200,6 +199,9 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slr_2023">2023</a>
   - **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**. *CVPR 2023*. [[paper](https://arxiv.org/pdf/2303.12793.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
+
+### <a id="slr_2024">2024</a>
+  - **SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**. *ACM MM 2024*. [[paper](https://arxiv.org/pdf/2407.16394)][[Code](https://github.com/longtaojiang/SEDS)]
 
 ### Pre-training
 ### <a id="pt_2021">2021</a>
