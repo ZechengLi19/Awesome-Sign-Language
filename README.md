@@ -214,4 +214,4 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="pt_2024">2024</a>
   - **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. *TCSVT 2024*. [[Paper](https://arxiv.org/pdf/2405.20666)][[Code](https://github.com/sakura2233565548/MASA)]
-  - **🔥Towards Privacy-Aware Sign Language Translation at Scale**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2402.09611)]
+  - **🔥Towards Privacy-Aware Sign Language Translation at Scale**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2402.09611)][[Code](https://github.com/facebookresearch/ssvp_slt)]
