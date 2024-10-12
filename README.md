@@ -192,6 +192,9 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **SignAvatar: Sign Language 3D Motion Reconstruction and Generation**. *FG 2024*. [[Paper](https://arxiv.org/pdf/2405.07974)][[Project](https://dongludeeplearning.github.io/SignAvatar.html)]
   - **Select and Reorder: A Novel Approach for Neural Sign Language Production**. *LREC-COLING 2024*. [[Paper](https://arxiv.org/pdf/2404.11532)][[Project](https://t2sgpt-demo.yinaoxiong.cn/)]
   - **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2406.07119)][[Project](https://t2sgpt-demo.yinaoxiong.cn/)]
+  - **SignGen: End-to-End Sign Language Video Generation with Latent Diffusion**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)][[Code](https://github.com/mingtiannihao/SignGen)]
+  - **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
+
 
 ### Sign language retrieval
 ### <a id="slr_2022">2022</a>
@@ -202,6 +205,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slr_2024">2024</a>
   - **SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**. *ACM MM 2024*. [[paper](https://arxiv.org/pdf/2407.16394)][[Code](https://github.com/longtaojiang/SEDS)]
+  - **Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06074.pdf)][[Code](https://github.com/xua222/UPRet)]
 
 ### Pre-training
 ### <a id="pt_2021">2021</a>
