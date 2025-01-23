@@ -228,5 +228,8 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="USLU_2023">2023</a>
   - **SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding**. *TPAMI 2023*. [[Paper](https://ieeexplore.ieee.org/document/10109128)][[Project](https://signbert-zoo.github.io/)]
 
-### <a id="pt_2024">2024</a>
-  - **Scaling up Multimodal Pre-training for Sign Language Understanding**. *ArXiv*. [[Paper](https://arxiv.org/pdf/2408.08544)]
+### <a id="USLU_2024">2024</a>
+  - **Scaling up Multimodal Pre-training for Sign Language Understanding**. *ArXiv 2024*. [[Paper](https://arxiv.org/pdf/2408.08544)]
+
+### <a id="USLU_2025">2025</a>
+  - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)]
