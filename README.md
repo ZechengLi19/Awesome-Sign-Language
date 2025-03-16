@@ -71,6 +71,7 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Pose-based Sign Language Recognition using GCN and BERT**. *WACVW 2021*. [[Paper](https://openaccess.thecvf.com/content/WACV2021W/HBU/html/Tunga_Pose-Based_Sign_Language_Recognition_Using_GCN_and_BERT_WACVW_2021_paper.html)]
   - **Skeleton Aware Multi-modal Sign Language Recognition**. *CVPRW 2021*. [[Paper](https://arxiv.org/pdf/2103.08833.pdf)][[Code](https://github.com/jackyjsy/CVPR21Chal-SLR)]
   - **Sign Language Recognition via Skeleton-Aware Multi-Model Ensemble**. *Arxiv 2021*. [[Paper](https://arxiv.org/pdf/2110.06161.pdf)][[Code](https://github.com/jackyjsy/SAM-SLR-v2)]
+  - **SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)]
 
 ### <a id="islr_2023">2023</a>
   - **Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. *CVPRW 2023*. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)][[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
@@ -129,6 +130,9 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="cslr_2024">2024</a>
   - **Towards Online Continuous Sign Language Recognition and Translation**. *EMNLP 2024*. [[Paper](https://aclanthology.org/2024.emnlp-main.619.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
 
+### <a id="cslr_2025">2025</a>
+  - **KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**. *AAAI 2025*. [[Paper](https://arxiv.org/pdf/2501.02321)]
+
 
 ### Sign language translation
 ### <a id="slt_2018">2018</a>
@@ -172,13 +176,18 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slt_2024">2024</a>
   - **Sign Language Translation with Sentence Embedding Supervision**. *ACL 2024*. [[paper](https://aclanthology.org/2024.acl-short.40.pdf)]
-  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
+  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)][[Code](https://github.com/ryanwongsa/Sign2GPT/tree/main)]
   - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
   - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
   - **Towards Privacy-Aware Sign Language Translation at Scale**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2402.09611)][[Code](https://github.com/facebookresearch/ssvp_slt)]
   - **LLMs are Good Sign Language Translators**. *CVPR 2024*. [[paper](https://arxiv.org/pdf/2404.00925)]
   - **Improving Gloss-free Sign Language Translation by Reducing Representation Density**. *NeurIPS 2024*. [[paper](https://openreview.net/forum?id=FtzLbGoHW2)][[code](https://github.com/JinhuiYE/SignCL)]
+  - **Visual Alignment Pre-training for Sign Language Translation**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)]
 
+
+### <a id="slt_2025">2025</a>
+  - **Improvement in Sign Language Translation Using Text CTC Alignment**. *COLING 2025*. [[paper](https://arxiv.org/pdf/2412.09014)][[code](https://github.com/Claire874/TextCTC-SLT)]
+  - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)][[Code](https://github.com/ZechengLi19/Uni-Sign)]
 
 [//]: # (  - **A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News**. *LREC-COLING 2024*. [[paper]&#40;https://arxiv.org/pdf/2405.00980&#41;][[Project]&#40;https://tvb-hksl-news.github.io/&#41;])
 
@@ -210,6 +219,10 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **SignGen: End-to-End Sign Language Video Generation with Latent Diffusion**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)][[Code](https://github.com/mingtiannihao/SignGen)]
   - **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
 
+### <a id="slp_2025">2025</a>
+  - **Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production**. *AAAI 2025*. [[Paper](https://arxiv.org/pdf/2412.13609)][[Code](https://github.com/NaVi-start/Sign-IDD)]
+
+
 ### Sign language retrieval
 ### <a id="slr_2022">2022</a>
   - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
@@ -222,9 +235,6 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06074.pdf)][[Code](https://github.com/xua222/UPRet)]
 
 ### Unified sign language understanding
-### <a id="USLU_2021">2021</a>
-  - **SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition**. *ICCV 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)]
-
 ### <a id="USLU_2023">2023</a>
   - **SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding**. *TPAMI 2023*. [[Paper](https://ieeexplore.ieee.org/document/10109128)][[Project](https://signbert-zoo.github.io/)]
 
@@ -232,4 +242,5 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Scaling up Multimodal Pre-training for Sign Language Understanding**. *ArXiv 2024*. [[Paper](https://arxiv.org/pdf/2408.08544)]
 
 ### <a id="USLU_2025">2025</a>
-  - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)]
+  - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)][[Code](https://github.com/ZechengLi19/Uni-Sign)]
+
