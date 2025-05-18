@@ -162,34 +162,36 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Sign Language Translation based on Transformers for the How2Sign Dataset**. *Report 2022*. [[Paper](https://imatge.upc.edu/web/sites/default/files/pub/xCabot22.pdf)]
 
 ### <a id="slt_2023">2023</a>
-  - **SLTUNET: A Simple Unified Model for Sign Language Translation**. *ICLR 2023*. [[paper](https://openreview.net/forum?id=EBS4C77p_5S)][[Code](https://github.com/bzhangGo/sltunet)]
+  - **SLTUNET: A Simple Unified Model for Sign Language Translation**. *ICLR 2023*. [[Paper](https://openreview.net/forum?id=EBS4C77p_5S)][[Code](https://github.com/bzhangGo/sltunet)]
   - **Gloss-Free End-to-End Sign Language Translation**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-long.722/)][[Code](https://github.com/HenryLittle/GloFE)]
   - **Neural Machine Translation Methods for Translating Text to Sign Language Glosses**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-long.700/)]
   - **Considerations for meaningful sign language machine translation based on glosses**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.acl-short.60/)]
   - **ISLTranslate: Dataset for Translating Indian Sign Language**. *ACL 2023*. [[Paper](https://aclanthology.org/2023.findings-acl.665/)][[Code](https://github.com/Exploration-Lab/ISLTranslate)]
-  - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[paper](https://arxiv.org/pdf/2305.11096.pdf)][[Code](https://github.com/Atrewin/SignXmDA)]
-  - **YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus**. *NeurIPS 2023*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5c61452daca5f0c260e683b317d13a3f-Paper-Datasets_and_Benchmarks.pdf)]
+  - **Cross-modality Data Augmentation for End-to-End Sign Language Translation**. *EMNLP 2023*. [[Paper](https://arxiv.org/pdf/2305.11096.pdf)][[Code](https://github.com/Atrewin/SignXmDA)]
+  - **YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus**. *NeurIPS 2023*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5c61452daca5f0c260e683b317d13a3f-Paper-Datasets_and_Benchmarks.pdf)]
   - **Sign Language Translation from Instructional Videos**. *CVPRW 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/papers/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.pdf)][[Project](https://imatge-upc.github.io/slt_how2sign_wicv2023/)][[Code](https://github.com/imatge-upc/slt_how2sign_wicv2023)]
   - **Gloss Attention for Gloss-free Sign Language Translation**. *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)][[Code](https://github.com/YinAoXiong/GASLT)]
   - **Sign Language Translation with Iterative Prototype**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)]
-  - **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. *ICCV 2023*. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)][[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
+  - **Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. *ICCV 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)][[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
 
 ### <a id="slt_2024">2024</a>
-  - **Sign Language Translation with Sentence Embedding Supervision**. *ACL 2024*. [[paper](https://aclanthology.org/2024.acl-short.40.pdf)]
-  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)][[Code](https://github.com/ryanwongsa/Sign2GPT/tree/main)]
-  - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
-  - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation**. *LREC-COLING 2024*. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
+  - **Sign Language Translation with Sentence Embedding Supervision**. *ACL 2024*. [[Paper](https://aclanthology.org/2024.acl-short.40.pdf)]
+  - **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. *ICLR 2024*. [[Paper](https://openreview.net/forum?id=LqaEEs3UxU)][[Code](https://github.com/ryanwongsa/Sign2GPT/tree/main)]
+  - **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. *AAAI 2024*. [[Paper](https://arxiv.org/pdf/2312.15645.pdf)][[Code](https://github.com/rzhao-zhsq/CV-SLT)]
+  - **Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation**. *LREC-COLING 2024*. [[Paper](https://arxiv.org/pdf/2403.12556.pdf)]
   - **Towards Privacy-Aware Sign Language Translation at Scale**. *ACL 2024*. [[Paper](https://arxiv.org/pdf/2402.09611)][[Code](https://github.com/facebookresearch/ssvp_slt)]
-  - **LLMs are Good Sign Language Translators**. *CVPR 2024*. [[paper](https://arxiv.org/pdf/2404.00925)]
-  - **Improving Gloss-free Sign Language Translation by Reducing Representation Density**. *NeurIPS 2024*. [[paper](https://openreview.net/forum?id=FtzLbGoHW2)][[code](https://github.com/JinhuiYE/SignCL)]
+  - **LLMs are Good Sign Language Translators**. *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2404.00925)]
+  - **Improving Gloss-free Sign Language Translation by Reducing Representation Density**. *NeurIPS 2024*. [[Paper](https://openreview.net/forum?id=FtzLbGoHW2)][[Code](https://github.com/JinhuiYE/SignCL)]
+  - **Scaling Sign Language Translation**. *NeurIPS 2024*. [[Paper](https://openreview.net/forum?id=M80WgiO2Lb)]
   - **Visual Alignment Pre-training for Sign Language Translation**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)]
+  - **EvSign: Sign Language Recognition and Translation with Streaming Events**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)][[Project](https://zhang-pengyu.github.io/EVSign/)]
 
 
 ### <a id="slt_2025">2025</a>
-  - **Improvement in Sign Language Translation Using Text CTC Alignment**. *COLING 2025*. [[paper](https://arxiv.org/pdf/2412.09014)][[code](https://github.com/Claire874/TextCTC-SLT)]
+  - **Improvement in Sign Language Translation Using Text CTC Alignment**. *COLING 2025*. [[Paper](https://arxiv.org/pdf/2412.09014)][[Code](https://github.com/Claire874/TextCTC-SLT)]
   - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)][[Code](https://github.com/ZechengLi19/Uni-Sign)]
+  - **Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**. *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2501.09754)][[Project](https://www.robots.ox.ac.uk/~vgg/research/litfic/)]
 
-[//]: # (  - **A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News**. *LREC-COLING 2024*. [[paper]&#40;https://arxiv.org/pdf/2405.00980&#41;][[Project]&#40;https://tvb-hksl-news.github.io/&#41;])
 
 ### Sign language production
 ### <a id="slp_2018">2018</a>
@@ -221,17 +223,18 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 
 ### <a id="slp_2025">2025</a>
   - **Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production**. *AAAI 2025*. [[Paper](https://arxiv.org/pdf/2412.13609)][[Code](https://github.com/NaVi-start/Sign-IDD)]
+  - **Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations**. *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2411.16810)]
 
 
 ### Sign language retrieval
 ### <a id="slr_2022">2022</a>
-  - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
+  - **Sign Language Video Retrieval with Free-Form Textual Queries**. *CVPR 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duarte_Sign_Language_Video_Retrieval_With_Free-Form_Textual_Queries_CVPR_2022_paper.pdf)][[Project](https://imatge-upc.github.io/sl_retrieval/)]
 
 ### <a id="slr_2023">2023</a>
-  - **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**. *CVPR 2023*. [[paper](https://arxiv.org/pdf/2303.12793.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
+  - **CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**. *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2303.12793.pdf)][[Code](https://github.com/FangyunWei/SLRT)]
 
 ### <a id="slr_2024">2024</a>
-  - **SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**. *ACM MM 2024*. [[paper](https://arxiv.org/pdf/2407.16394)][[Code](https://github.com/longtaojiang/SEDS)]
+  - **SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**. *ACM MM 2024*. [[Paper](https://arxiv.org/pdf/2407.16394)][[Code](https://github.com/longtaojiang/SEDS)]
   - **Uncertainty-aware Sign Language Video Retrieval with Probability Distribution Modeling**. *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06074.pdf)][[Code](https://github.com/xua222/UPRet)]
 
 ### Unified sign language understanding
