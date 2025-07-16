@@ -83,6 +83,10 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
 ### <a id="islr_2024">2024</a>
   - **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. *TCSVT 2024*. [[Paper](https://arxiv.org/pdf/2405.20666)][[Code](https://github.com/sakura2233565548/MASA)]
 
+### <a id="islr_2025">2025</a>
+  - **VSNet: Focusing on the Linguistic Characteristics of Sign Language**. *CVPR 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_VSNet_Focusing_on_the_Linguistic_Characteristics_of_Sign_Language_CVPR_2025_paper.pdf)][[Code](https://github.com/atinyboy/VSNet)]
+  - **Cross-Modal Consistency Learning for Sign Language Recognition**. *CVPRW 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/papers/Wu_Cross-Modal_Consistency_Learning_for_Sign_Language_Recognition_CVPRW_2025_paper.pdf)]
+
 [//]: # (### <a id="islr_2024">2024</a>)
 
 ### Continue sign language recognition
@@ -191,7 +195,10 @@ and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset
   - **Improvement in Sign Language Translation Using Text CTC Alignment**. *COLING 2025*. [[Paper](https://arxiv.org/pdf/2412.09014)][[Code](https://github.com/Claire874/TextCTC-SLT)]
   - **Uni-Sign: Toward Unified Sign Language Understanding at Scale**. *ICLR 2025*. [[Paper](https://openreview.net/pdf?id=0Xt7uT04cQ)][[Code](https://github.com/ZechengLi19/Uni-Sign)]
   - **Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**. *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2501.09754)][[Project](https://www.robots.ox.ac.uk/~vgg/research/litfic/)]
-
+  - **Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model**. *ACL 2025*. [[Paper](https://arxiv.org/pdf/2505.24355)][[Code](https://github.com/Claire874/Gloss-free-MLSLT)]
+  - **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**. *ACL 2025*. [[Paper](https://arxiv.org/pdf/2411.16765)]
+  - **An Efficient Gloss-Free Sign Language Translation Using Spatial Configurations and Motion Dynamics with LLMs**. *NAACL 2025*. [[Paper](https://aclanthology.org/2025.naacl-long.197.pdf)][[Code](https://github.com/eddie-euijun-hwang/SpaMo)]
+  - **SAGE: Segment-Aware Gloss-Free Encoding for Token-Efficient Sign Language Translation**. *ICCVW 2025*. [[Paper](https://www.arxiv.org/pdf/2507.09266)]
 
 ### Sign language production
 ### <a id="slp_2018">2018</a>
