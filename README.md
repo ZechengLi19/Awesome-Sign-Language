@@ -25,36 +25,36 @@ The following colors represent different sign languages: 🟥 CSL, 🟦 DGS, �
 [//]: # (🟫 ISL, )
 
 - Large-scale sign language dataset:
-  - 🟨**YouTube-ASL**: 984 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2306.15162)][[Link](https://github.com/google-research/google-research/tree/master/youtube_asl)]
-  - 🟥**CSL-News**: 1,985 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2501.15187)][[Link](https://huggingface.co/datasets/ZechengLi19/CSL-News)]
-  - 🌈**YouTube-SL-25**: 3,207 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2407.11144)][[Link](https://github.com/google-research/google-research/tree/master/youtube_sl_25)]
+  - 🟨 **YouTube-ASL**: 984 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2306.15162)][[Link](https://github.com/google-research/google-research/tree/master/youtube_asl)]
+  - 🟥 **CSL-News**: 1,985 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2501.15187)][[Link](https://huggingface.co/datasets/ZechengLi19/CSL-News)]
+  - 🌈 **YouTube-SL-25**: 3,207 hours of videos for pre-training a robust sign language model. [[Paper](https://arxiv.org/pdf/2407.11144)][[Link](https://github.com/google-research/google-research/tree/master/youtube_sl_25)]
 
 - Isolated sign language recognition benchmarks:
-  - 🟨**WLASL**: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [[Link](https://dxli94.github.io/WLASL/)]
-  - 🟨**MSASL**: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/ms-asl/)]
-  - 🟥**NMFs-CSL**: 25,608 and 6,402 video segments in the train and test splits, respectively. [[Link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)]
-  - 🟥**SLR500**: 90,000 and 35,000 video segments in the train and test splits, respectively. [[Link](http://home.ustc.edu.cn/~hagjie/)]
-  - 🟪**Slovo**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link](https://github.com/hukenovs/slovo)]
-  - 🟩**ASL Citizen**: 40,154, 10,304, 32,941 video segments in train, val and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/asl-citizen/)]
-  - 🟩**Auslan-Daily**: 1,800, 600, 600 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
+  - 🟨 **WLASL**: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [[Link](https://dxli94.github.io/WLASL/)]
+  - 🟨 **MSASL**: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/ms-asl/)]
+  - 🟥 **NMFs-CSL**: 25,608 and 6,402 video segments in the train and test splits, respectively. [[Link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)]
+  - 🟥 **SLR500**: 90,000 and 35,000 video segments in the train and test splits, respectively. [[Link](http://home.ustc.edu.cn/~hagjie/)]
+  - 🟪 **Slovo**: 15,300 and 5,100 video segments in the train and test splits, respectively. [[Link](https://github.com/hukenovs/slovo)]
+  - 🟩 **ASL Citizen**: 40,154, 10,304, 32,941 video segments in train, val and test splits, respectively. [[Link](https://www.microsoft.com/en-us/research/project/asl-citizen/)]
+  - 🟩 **Auslan-Daily**: 1,800, 600, 600 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
 
 - Continue sign language recognition benchmarks:
-  - 🟦**Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
-  - 🟦**Phoenix-2014T**: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
-  - 🟥**CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
-  - 🟥**TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
+  - 🟦 **Phoenix-2014**: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)]
+  - 🟦 **Phoenix-2014T**: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
+  - 🟥 **CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
+  - 🟥 **TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
   
 - Sign language translation benchmarks:
-  - 🟦**Phoenix-2014T**: 7,096, 519 and 642 video segments in
+  - 🟦 **Phoenix-2014T**: 7,096, 519 and 642 video segments in
 train, dev and test splits, respectively. [[Link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)]
-  - 🟥**TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
-  - 🟥**CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev
+  - 🟥 **TVB-HKSL-News**: 6,516, 322 and 322 video segments in train, dev and test splits, respectively. [[Link](https://tvb-hksl-news.github.io/)]
+  - 🟥 **CSL-Daily**: 18,401, 1,077 and 1,176 video segments in train, dev
 and test splits, respectively. [[Link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/)]
-  - 🟨**OpenASL**: 96,476, 966 and 975 video segments in train, val and test splits, respectively. [[Link](https://github.com/chevalierNoir/OpenASL/)]
-  - 🟨**How2Sign**: 31,128, 1,741, 2,322 video segments in train, val and test splits, respectively. [[Link](https://how2sign.github.io/)]
-  - 🟧**BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
-  - 🟩**Auslan-Daily Communication**: 12,441, 800, 800 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
-  - 🟩**Auslan-Daily News**: 9,665, 700, 700 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
+  - 🟨 **OpenASL**: 96,476, 966 and 975 video segments in train, val and test splits, respectively. [[Link](https://github.com/chevalierNoir/OpenASL/)]
+  - 🟨 **How2Sign**: 31,128, 1,741, 2,322 video segments in train, val and test splits, respectively. [[Link](https://how2sign.github.io/)]
+  - 🟧 **BOBSL**: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [[Link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)]
+  - 🟩 **Auslan-Daily Communication**: 12,441, 800, 800 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
+  - 🟩 **Auslan-Daily News**: 9,665, 700, 700 video segments in train, val and test splits, respectively. [[Link](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)]
 
 [//]: # (  - 🟫**iSign**: 9,665, 700, 700 video segments in train, val and test splits, respectively. [[Link]&#40;https://huggingface.co/datasets/Exploration-Lab/iSign/&#41;])
 
